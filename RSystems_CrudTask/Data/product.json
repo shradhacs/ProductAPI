@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "First product",
+    "Price": 190.0,
+    "Quantity": 10
+  },
+  {
+    "Id": 2,
+    "Name": "Second Product",
+    "Price": 200.0,
+    "Quantity": 20
+  },
+  {
+    "Id": 5,
+    "Name": "product four",
+    "Price": 100.0,
+    "Quantity": 34
+  },
+  {
+    "Id": 6,
+    "Name": "Mobile Phone",
+    "Price": 200.0,
+    "Quantity": 23
+  },
+  {
+    "Id": 7,
+    "Name": "Laptop",
+    "Price": 200.0,
+    "Quantity": 43
+  },
+  {
+    "Id": 8,
+    "Name": "IPhone",
+    "Price": 500.0,
+    "Quantity": 34
+  },
+  {
+    "Id": 9,
+    "Name": "Mac OS",
+    "Price": 909.0,
+    "Quantity": 23
+  },
+  {
+    "Id": 10,
+    "Name": "Linux OS",
+    "Price": 453.0,
+    "Quantity": 98
+  }
+]
